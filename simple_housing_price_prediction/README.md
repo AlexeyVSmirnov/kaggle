@@ -10,9 +10,9 @@
 ![matplotlib 3.8.4](https://img.shields.io/badge/matplotlib-3.8.4-eeeeee) 
 ![seaborn-0.13.2](https://img.shields.io/badge/seaborn-0.13.2-33aaaa) 
 ![tqdm 4.66.4](https://img.shields.io/badge/tqdm-4.66.4-blue)   
-Все требуемые зависимости перечислены в файле `requirements.txt`.  
+Все требуемые зависимости перечислены в файле [requirements.txt](requirements.txt).  
 ## Решение
-Моё решение для этого соревнования представлено в файле `simple_housing_price_prediction.ipynb`  
+Моё решение для этого соревнования представлено в файле [simple_housing_price_prediction.ipynb](simple_housing_price_prediction.ipynb)
 
 ## Результат
 По состоянию на 30.09.2025 мое решение занимает второе место среди всех учасников соревнования.
